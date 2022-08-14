@@ -1,0 +1,15 @@
+//pacotes no Java
+
+
+package br.com.bancox.conta;
+//empresa bancox
+
+	public class cliente {
+}
+
+__________________________________________
+
+package br.com.mercadoy.estoque;
+
+	public class produtos {
+}
